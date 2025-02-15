@@ -13,4 +13,4 @@ The key functionalities include:
 <br>
 Here are some glimpses of the Review page:
 
-![image alt]([https://github.com/Praditha29/HTML-CSS/blob/2b206a0e08b987365ee11d73d78499a2269e398f/Review%20Page%20pic1.jpg](https://github.com/Praditha29/HTML-CSS/blob/00b37cec3407bf5a92b578f9ee201b355fc16352/ReviewPage%201%20Photo.png))
+![image alt](https://github.com/Praditha29/HTML-CSS/blob/7f66d083ea3ada0a24d68f375a8b8cf93b314d0b/ReviewPage%201%20Photo.png)
